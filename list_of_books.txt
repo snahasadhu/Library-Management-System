@@ -1,0 +1,6 @@
+Introduction to python
+System analysis and design
+Software engineering
+Introduction to git and github
+Basic statistics
+Introduction to data science
